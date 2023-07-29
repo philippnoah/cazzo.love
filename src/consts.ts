@@ -1,5 +1,5 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Astro Blog';
-export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const SITE_TITLE = "CAZZO.❤️";
+export const SITE_DESCRIPTION = "Four individuals, allegedly responsible for a series of horrifying crimes against humanity, have been officially charged by the International Criminal Court. These men, whose identities are being withheld at this time due to ongoing investigations, are said to be linked to a series of atrocities across several nations. These are among the gravest crimes acknowledged by international law. Sources indicate that the evidence presented is substantial, comprising years of extensive investigation by international authorities. The case has drawn the attention of human rights organizations worldwide, who are calling this a significant step in the fight against impunity for those committing heinous acts against humanity. The case represents one of the largest-ever prosecutions under the Rome Statute, the treaty that established the International Criminal Court. These charges serve as a strong message to those who think they can escape justice for such monstrous acts.";
